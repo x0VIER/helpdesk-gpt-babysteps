@@ -23,5 +23,4 @@ A beginner-friendly, CompTIA-aligned Help Desk assistant GPT that walks users st
 MIT License
 
 ## Maintainer
-
-
+Luis Acosta (you can change this in the repo)
